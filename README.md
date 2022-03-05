@@ -1,4 +1,4 @@
-# Contract-Templates
+# Contract-Templates (US only)
 
 Simply download the contracts and fill in all the highlighted portions. I use Adobe Sign to add signature fields and send contracts to be e-signed. You print the word doc to a pdf and load that pdf into a new contract in Adobe Sign and at the bottom you add a sigature field for the client and a name field and title field. When the client Opens the email they will be directed to sign and add their name and title where you specified. Boom, contract signed and it's saved in your account.
 
