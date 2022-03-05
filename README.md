@@ -7,3 +7,5 @@ DISCLAIMER: This contract was written by my business contract lawyer, by downloa
 One contract has slightly different wording for monthly subsciption clients, and the ohter is for clients who pay you a lump sum with no monthly committment. But you can add hosting fees and domain registration fees or anything else you need in the contract. Make sure you put all your fees and everything in your contract supplemental to what I have provided.
 
 Make sure you replace the highlighted text with yours and your clients info and pricing. Hope this is helpful!
+
+**Contract was drafted for and in the state of Washington, you may need to consult a local state lawyer to make sure it will still work for your state.
