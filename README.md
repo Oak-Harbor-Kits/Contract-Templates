@@ -10,4 +10,4 @@ Make sure you replace the highlighted text with yours and your clients info and 
 
 **Contract was drafted for and in the state of Washington, you may need to consult a local state lawyer to make sure it will still work for your state.
 
-**This document is only provided as a personal opinion and should NOT be considered as legal advice; for a legal opinion, you should consult a licensed attorney in yuor jusrisdiction.
+**This document is only provided as a personal opinion and should NOT be considered as legal advice; for a legal opinion, you should consult a licensed attorney in your jurisdiction.
